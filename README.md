@@ -1,1 +1,1 @@
-# c \ Clearn <-- This file is string code.
+# c \ Clearn.c <-- This file is string code.
